@@ -1,4 +1,2 @@
 # Armadillo
 Magnetic Armatures
-
-Test
